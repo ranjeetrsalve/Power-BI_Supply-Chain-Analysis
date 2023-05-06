@@ -11,7 +11,7 @@ I have implemented a bookmark feature on the product overview page to display ke
 
 Task Performed:
 
-Data Profiling using Power Query,
+Data Cleaning/Profiling using Power Query,
 Data Modeling,
 Data Analysis using DAX,
 Data Visualization.
