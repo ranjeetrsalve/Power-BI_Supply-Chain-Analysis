@@ -10,7 +10,8 @@ About the Dashboard:
 I have implemented a bookmark feature on the product overview page to display key performance indicators (KPIs) over a month. Users can easily select one of the major key metrics from above the visual, such as OTIF% (On-Time In-Full percentage), and the visual will dynamically update to show the KPI over the month. Additionally, users can drill down to view KPIs over a week for more detailed analysis.
 
 Task Performed:
-Data Profiling using Power Query
-Data Modeling
-Data Analysis using DAX
-Data Visualization
+
+Data Profiling using Power Query,
+Data Modeling,
+Data Analysis using DAX,
+Data Visualization.
